@@ -1,0 +1,7 @@
+C:\Users\BR\source\repos\Edipo-ContaPoupança\Edipo-ContaPoupança\bin\Debug\Edipo-ContaPoupança.exe.config
+C:\Users\BR\source\repos\Edipo-ContaPoupança\Edipo-ContaPoupança\bin\Debug\Edipo-ContaPoupança.exe
+C:\Users\BR\source\repos\Edipo-ContaPoupança\Edipo-ContaPoupança\bin\Debug\Edipo-ContaPoupança.pdb
+C:\Users\BR\source\repos\Edipo-ContaPoupança\Edipo-ContaPoupança\obj\Debug\Edipo-ContaPoupança.csprojAssemblyReference.cache
+C:\Users\BR\source\repos\Edipo-ContaPoupança\Edipo-ContaPoupança\obj\Debug\Edipo-ContaPoupança.csproj.CoreCompileInputs.cache
+C:\Users\BR\source\repos\Edipo-ContaPoupança\Edipo-ContaPoupança\obj\Debug\Edipo-ContaPoupança.exe
+C:\Users\BR\source\repos\Edipo-ContaPoupança\Edipo-ContaPoupança\obj\Debug\Edipo-ContaPoupança.pdb
